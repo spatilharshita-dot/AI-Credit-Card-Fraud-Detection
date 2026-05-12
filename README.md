@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 💳 AI-Based Fraud Detection System
 
 ## 🔍 Project Description
